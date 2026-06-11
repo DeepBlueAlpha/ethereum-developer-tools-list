@@ -91,7 +91,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
 * [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise-grade low latency for all. Supports all major EVM chains.
-
+* [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale wallet tracker with buy/sell DEX swap classification across 12,000+ wallets, Whale Sentiment Index, per-token net flow analysis, and a free public API. No signup required for the free tier.
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
